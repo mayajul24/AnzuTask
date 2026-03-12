@@ -75,11 +75,3 @@ server.on("connection", (socket) => {
 server.on("error", (err) => {
     console.error("Server error:", err.message);
 });
-
-process.on("SIGINT", () => {
-    console.log("\nShutting down server...");
-    server.close(() => {
-        console.log("Server closed");
-        process.exit(0);
-    });
-});
