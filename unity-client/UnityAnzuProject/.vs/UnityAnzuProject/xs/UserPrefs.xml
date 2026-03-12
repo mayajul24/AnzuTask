@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{4550E361-65ED-7AAD-5241-947A80E07BB5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ServerClient.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ServerClient.cs" Line="62" Column="37" />
+      <File FileName="Assets/Scripts/Messages.cs" Line="25" Column="14" />
+      <File FileName="Assets/Scripts/UnityMainThread.cs" Line="27" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityAnzuProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ServerClient.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d6d2f32a-0fee-4f44-b746-be7bf486085c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

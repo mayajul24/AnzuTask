@@ -1,0 +1,28 @@
+# IDE
+.idea
+.vscode
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Unity
+unity-client/**/Library/
+unity-client/**/Temp/
+unity-client/**/obj/
+unity-client/**/*.csproj
+unity-client/**/*.sln
+unity-client/**/Logs/
+unity-client/**/UserSettings/
+unity-client/**/.vs/
+
+# OS
+.DS_Store
+Thumbs.db

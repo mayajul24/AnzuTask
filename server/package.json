@@ -1,0 +1,19 @@
+{
+  "name": "server-unity-communication",
+  "version": "1.0.0",
+  "description": "WebSocket server for Unity client communication",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.19.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
